@@ -159,10 +159,12 @@ background-color: #f35200;
     display: flex;
     grid-template-columns: repeat(3,1fr);
     grid-gap :35px;
+    
 
  }
  .product img{
     width: 250px;
+    
  }
  .product h3{
     font-size: 20px;
